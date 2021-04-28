@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @javierNM12 from Spain, SysAdmin (ASIR -> Administración de Sistemas Informáticos en Red) and programmer (work in progress)
+- 👀 I’m interested in learning how to improve my coding and everithing that has to do with servers and networks.
+- 🌱 I’m currently learning Web Application Development (DAW) at I.E.S Trassierra
+- 💞️ I’m looking to collaborate in any open source project to (someday) become a professional programmer or SysAdmin
+- 📫 How to reach me -> https://twitter.com/JavierNezMoral1
